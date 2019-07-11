@@ -1,5 +1,10 @@
 This is a test file add branch issue-1.
 <<<<<<< HEAD
+haha
+=======
+haha
+>>>>>>> dev
+<<<<<<< HEAD
 Add a line in branch dev is quick and simple.
 =======
 Add a line in branch dev is quick and simple.
