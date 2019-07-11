@@ -1,8 +1,10 @@
+<<<<<<< HEAD
 This is to test dev merge. heiheihie This is a test file.
-
-
-
-high
+haha
+=======
+This is a test file add branch issue-1.
+haha
+>>>>>>> 16d6e8066d5b963d58589884daa18b2f0cd55037
 <<<<<<< HEAD
 Add a line in branch dev is quick and simple.
 =======
