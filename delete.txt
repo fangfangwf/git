@@ -1,2 +1,6 @@
 This is a test file.
-Add a line in branch dev is quick & simple.
+<<<<<<< HEAD
+Add a line in branch dev is quick and simple.
+=======
+Add a line in branch dev is quick and simple.
+>>>>>>> feature1
