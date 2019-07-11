@@ -1,11 +1,5 @@
-This is a test file add branch issue-1.
-<<<<<<< HEAD
+This is to test dev merge. heiheihie This is a test file.
 haha
-=======
-haha
->>>>>>> dev
-<<<<<<< HEAD
+
 Add a line in branch dev is quick and simple.
-=======
-Add a line in branch dev is quick and simple.
->>>>>>> feature1
+
