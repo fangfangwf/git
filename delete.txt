@@ -1,2 +1,2 @@
 This is a test file.
-Add a line in branch dev.
+Add a line in branch dev is quick & simple.
