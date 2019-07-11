@@ -1,6 +1,4 @@
 This is to test dev merge. heiheihie This is a test file.
-<<<<<<< HEAD
+
 Add a line in branch dev is quick and simple.
-=======
-Add a line in branch dev is quick and simple.
->>>>>>> feature1
+
